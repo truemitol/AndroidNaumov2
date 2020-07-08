@@ -1,0 +1,2 @@
+rootProject.name='AndroidNaumov'
+include ':app'
